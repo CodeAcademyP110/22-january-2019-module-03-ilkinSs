@@ -1,0 +1,49 @@
+0. 
+
+A imperative
+B declarative
+C object-oriyented
+D functional
+E procedural
+F logic
+G mathematical 
+
+Qaynaglar 
+
+Wikipedy
+Mellim
+------------------------
+1. 
+
+A) Declarativde Emri veririk, resultu alirig. Amma bilmirik hansi prosesler baw verdi. 
+B) Programda istediyimiz deyiwikleri ede bilerik. Hetta ele funksional etmek olarki bir bawa declarative paradigmada goze alinmasin. (Imperative)
+C) Declarativde biz tekce ne istediyimizi, imperativde o istediyimize nece gedilmesini de gosteririk
+D) Imperative, programlawdirmani daha derinnen bilmeni vacib edir. Imperativ oyrenildise, o emrlerin declarativde toplusunu yadda saxlamag mence problem olmaz
+E) Daha az vaxt serf edirik (declarative)
+
+***Vacib geyd -:
+Declarative -> what you want done
+Imperative -> how you want it done
+
+Qaynaglar
+
+https://stackoverflow.com/questions/1784664/what-is-t..
+
+Habr.com
+
+Mellim
+-----------------------------------
+2. 
+
+A) Insan
+B) Top
+C) eslinde gorduyumuz her wey obyektdi. Eyer dunyada yaraniwina gore unikal bir wey yoxdusa elbetdeki. (Degig deyil :D)
+
+Qaynag - mellim
+----------------------------------
+3. 
+
+Object-Oriental. Men bawa duwduyume gore bu paradigmayla nese yaradanda, bu konveyere, zavoda benziyir. Hec bir informasiya itmir, ve hamisini lazim olanda "nasledstvennost"nan istifade etmek olur. Yeniki butun info bloklara yigilir, ve piramidanin alt dawlari kimk olur, prosto yuxardan awagi. Informasiyani ne geder cox yigdin, o geder cox profit ala bilersen!!! Mence bu yontemnen daha boyuk, geniw programlar yaratmag olar. Ucu bucagini gormurem eslinde obyomlara gore. 
+
+Qaynag 
+Ozum
